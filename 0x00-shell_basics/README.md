@@ -13,4 +13,5 @@ Task 11 - Write a script that lists all files in the current directory and the p
 Task 12 - Write a script that prints the type of the file named iamafile
 Task 13 - Create a symbolic link to /bin/ls
 Task 14 - copies all the HTML files from the current working directory to the parent of the working directory
+Task 15 - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
