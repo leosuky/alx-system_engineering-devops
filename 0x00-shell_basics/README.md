@@ -11,4 +11,5 @@ Task 9 - Delete the directory myfirstdirectory that is in the /tmp directory
 Task 10 - Write a script that changes the working directory to the previous one.
 Task 11 - Write a script that lists all files in the current directory and the parent directory and the /boot directory
 Task 12 - Write a script that prints the type of the file named iamafile
+Task 13 - Create a symbolic link to /bin/ls
 
