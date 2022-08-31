@@ -7,4 +7,5 @@ Task 5 - Display current directory contents.
 Task 6 - Create a script that creates a directory named myfirstdirectory in the /tmp/ directory
 Task 7 - Move the file betty from /tmp/ to /tmp/myfirstdirectory
 Task 8 - Delete the file betty.
+Task 9 - Delete the directory myfirstdirectory that is in the /tmp directory
 
