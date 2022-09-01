@@ -14,4 +14,5 @@ Task 12 - Create a script that creates a directory called mydir with permissions
 Task 13 - Write a script that changes the group owner to school for the file hello.\n
 Task 14 - Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.\n
 Task 15 - Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.\n
+Task 16 - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.\n
 
