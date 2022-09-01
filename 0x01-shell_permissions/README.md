@@ -10,4 +10,5 @@ Task 8 - Write a script that sets the permission to the file hello to all for ot
 Task 9 - Write a script that sets the mode of the file hello to this: -rwxr-x-wx\n
 Task 10 - Write a script that sets the mode of the file hello the same as olleh’s mode.\n
 Task 11 - Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files wont change\n
+Task 12 -Create a script that creates a directory called mydir with permissions 751 in the working directory.\n
 
