@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.md" -printf "%f\n" | sed -e 's/\.md$//' | LC_COLLATE=C sort -f
+find . -type f -name \*.md -printf "%f\n" | sed -e 's/\.md$//' | LC_ALL=C sort -f
