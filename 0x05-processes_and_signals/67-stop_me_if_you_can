@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that kills exercise 7's process.
+# Cannot use kill or killall.
+pkill -f 7-highlander
